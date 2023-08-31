@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduinoisp",
+    "sketch": "Unit 1 - Basics to IO of circuits\\Lesson1.ino"
+}
