@@ -24,7 +24,10 @@ in a game, like "Minecraft", "Legend of Zelda", "Terraria", etc. These simple "g
 other more complex eletronics.  
 ![Logic Gates pic](Images/NV_0501_Byers_Large.jpg)
 # Addational Resources
->[Logic Gate Arduino Example(You cannot Use)](https://www.youtube.com/watch?v=Z4NjJLnFNpk)  
+>[Logic Gate Arduino Example(You cannot Use)](https://www.youtube.com/watch?v=Z4NjJLnFNpk)
+>
+>
+>
 >![Logic Gates Truth Table](Images/logic-gates.jpg)
 
 # Codeblocks
