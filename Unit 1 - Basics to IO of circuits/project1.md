@@ -22,7 +22,16 @@ something using a LLM(Large Language Model). Logic gates are also curcial for an
 Low level eletronics. Simply, most people would know some logic gates to try and do the impossible and make a simple calculator  
 in a game, like "Minecraft", "Legend of Zelda", "Terraria", etc. These simple "gates" can open many pathways to  
 other more complex eletronics.  
-![Logic Gates pic](Images/NV_0501_Byers_Large.jpg)
+![Logic Gates pic](Images/NV_0501_Byers_Large.jpg)  
+
+# Example Code(DO NOT USE)
+        if(digitalRead(8) == HIGH){
+                digitalWrite(10, HIGH);
+        }
+        else{
+                digitalWrite(10, LOW);
+        }
+
 # Addational Resources
 >[Logic Gate Arduino Example(You cannot Use)](https://www.youtube.com/watch?v=Z4NjJLnFNpk)
 >
