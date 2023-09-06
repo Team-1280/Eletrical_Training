@@ -9,7 +9,7 @@ you'll create a simple "Computer" that can peform basic tasks
         - Cannot use Buffer or "On Off" gate
         - to indicate your Logic gate working, use the LED as an indicator
         - use the video below to Understand Logic Gates
-        - [Basics to Logic Gates and what they do](https://www.youtube.com/watch?v=WII9HWnf3V4&t=6s)
+* Basics to Logic Gates and what they do](https://www.youtube.com/watch?v=WII9HWnf3V4&t=6s)
 
 
 # Logic Gates in Layman's Terms
