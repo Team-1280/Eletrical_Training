@@ -6,7 +6,7 @@
 
 # PWM and LED Potentimeter  
 Please create the circuit below:
-[d1Circurit](Images/d1.png)  
+![d1Circurit](Images/d1.png)  
 This is a basic circuit that has potential to create the basic PWM Output and Analog Input,  
 Analog input and Output has a slight issue where the Microcontroller(ATMEGA) will read it as  
 4 times what usually the PWM can output. This creates a issue if we were to feed the  
@@ -28,17 +28,17 @@ in your kits include:
  *Stepper motor
 
 DC motor, using a magnetic field changing irreversabily, to make something spin
-[DCMotor](Images/8pdm.gif)  
+![DCMotor](Images/8pdm.gif)  
 
 Servo motors, like DC motors have the same moving part but some only extend to a certain amount,  
 the upside of having a servo is that you can always know the degree the motor is at. Using a set of  
 gears to make the gear spin faster than the power given, since there is also a potientmeter to determine  
 the degree, its a bit more thicc.  
-[ServoMotor](Images/SG90_gear_exposed.gif)  
+![ServoMotor](Images/SG90_gear_exposed.gif)  
 
 Stepper motor, Unlike servo motors can carry heavier stuff at higher speed, the stepper motor uses a complex  
 system of motors to make something spin, not exactly fast but spin in a impressive amount of torque.  
-[StepperMotor](Images/StepperMotor.gif)  
+![StepperMotor](Images/StepperMotor.gif)  
 
 # Motor Vibration  
 Motor's poleraity is irreversable, you can hook a battery one way and it will spin another way, today we'll be  
