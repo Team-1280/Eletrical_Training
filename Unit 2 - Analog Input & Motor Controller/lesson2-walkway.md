@@ -13,8 +13,8 @@ Analog input and Output has a slight issue where the Microcontroller(ATMEGA) wil
 Analog Input into the PWM's write function would not work or will break the LED. So you'll
 be using the / function to divide a number by 4.  
 The functions you'll be using today should appear underneath.  
-        analogRead(pin); //for reading the value of the analog input least is 0 most is 1025
-        analogWrite(pin, brightness); //used to control the PWM least is 0 most is 255
+        analogRead(pin); //for reading the value of the analog input least is 0 most is 1025  
+        analogWrite(pin, brightness); //used to control the PWM least is 0 most is 255  
 
 Your source code will be provided [here](d1.ino)  
 
