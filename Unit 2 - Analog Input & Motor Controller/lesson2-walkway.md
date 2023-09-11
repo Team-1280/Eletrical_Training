@@ -22,7 +22,7 @@ REMEMBER THIS IS NOT A HIGH-LEVEL LANGUAGE, BINDING CERTAIN INTEGER IS NECESSARY
 
 # Motor classes  
 Today you'll learn about the different motors included in your kit provided. The motors  
-in your kits have:
+in your kits have:  
  * DC motor  
  * Servo motor  
  * Stepper motor
