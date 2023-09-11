@@ -7,7 +7,7 @@
 # PWM and LED Potentiometer  
 Please create the circuit below:
 ![d1Circurit](Images/d1.png)  
-This is a basic circuit that has the potential to create the basic PWM Output and Analog Input,  
+This is a primary circuit that has the potential to create the primary PWM Output and Analog Input,  
 Analog input and Output has a slight issue where the Microcontroller(ATMEGA) will read it as  
 4 times what the PWM can output. This creates an issue if we were to feed the  
 Analog Input into the PWM's write function would not work or will break the LED. So you'll
@@ -22,10 +22,10 @@ REMEMBER THIS IS NOT A HIGH-LEVEL LANGUAGE, BINDING CERTAIN INTEGER IS NECESSARY
 
 # Motor classes  
 Today you'll learn about the different motors included in your kit provided. The motors  
-in your kits include:
- *DC motor  
- *Servo motor  
- *Stepper motor
+in your kits have:
+ * DC motor  
+ * Servo motor  
+ * Stepper motor
 
 DC motor, using a magnetic field changing irreversibly, to make something spin
 ![DCMotor](Images/8pdM.gif)  
@@ -41,7 +41,7 @@ system of motors to make something spin, not exactly fast but with an impressive
 ![StepperMotor](Images/StepperMotor.gif)  
 
 # Motor Vibration  
-Motor's polarity is irreversible, you can hook a battery one way and it will spin another way, today we'll be  
+The motor's polarity is irreversible, you can hook a battery one way and it will spin another way, today we'll be  
 exploring this by checking everything  
 
 # PROJECT 2  
