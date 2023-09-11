@@ -28,7 +28,7 @@ in your kits include:
  *Stepper motor
 
 DC motor, using a magnetic field changing irreversabily, to make something spin
-![DCMotor](Images/8pdm.gif)  
+![DCMotor](Images/8pdM.gif)  
 
 Servo motors, like DC motors have the same moving part but some only extend to a certain amount,  
 the upside of having a servo is that you can always know the degree the motor is at. Using a set of  
