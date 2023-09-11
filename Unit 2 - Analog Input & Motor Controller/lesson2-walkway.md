@@ -1,7 +1,7 @@
 # OUTLINE  
 > Day 1: PWM and LED Potentiometer  
 > Day 2: Motor classes and their Main Function  
-> Day 3: Motor Vibration and DC motor stuff
+> Day 3: Motor Vibration and DC motor stuff  
 > Day 4: [Project](project2files/project2.md)  
 
 # PWM and LED Potentiometer  
